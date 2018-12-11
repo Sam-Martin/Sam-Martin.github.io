@@ -1,0 +1,22 @@
+body {
+  background-color: #06446C;
+  color: #dddddd;
+}
+.content {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100%
+}
+#middle{
+  margin-left: 25%;
+}
+#middle > span{
+  line-height: 3em;
+  margin-left:5px;
+  font-size:1em;
+  font-family:verdana;
+}
+#logoCenter{
+  width:250px;
+}
